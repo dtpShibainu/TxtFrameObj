@@ -1,4 +1,4 @@
-# TxtFrameObj
+# TxtFrameObj for Illustrator
 バラバラのテキストを一つのフレームにまとめるスクリプト<br>
 <br>
 まとめたいテキストを全て選択してスクリプトを走らせる事で<br>
